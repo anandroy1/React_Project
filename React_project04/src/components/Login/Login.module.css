@@ -1,0 +1,10 @@
+.login {
+  width: 70%;
+  max-width: 40rem;
+  margin: 6rem auto;
+  padding: 1.5rem;
+}
+
+.actions {
+  text-align: center;
+}
